@@ -1,0 +1,96 @@
+h1{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.titulo1{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.parrafo1{
+    text-align: center;
+    background-repeat: no-repeat;
+    text-align: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.procreateim{
+    margin-left: 150px;
+    border-radius: 5px;
+    width: 200px;
+    float: left;
+    border: 2px solid #fff
+}
+.titulo2{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.parrafo2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.megafono{
+    margin-left: 150px;
+    border-radius: 5px;
+    width: 200px;
+    float: left;
+    border: 2px solid #fff
+}
+.titulo3{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.parrafo3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.ultimaxd{
+    margin-left: 150px;
+    border-radius: 5px;
+    width: 200px;
+    float: left;
+    border: 2px solid #fff
+}
+.regresar{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

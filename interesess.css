@@ -1,0 +1,66 @@
+h1{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cosillas{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+    border-style: solid; 
+    border-width: 1px;
+    padding: 70px;
+    font-size: 20px;
+    text-align: center; color: rgb(255, 255, 255);
+    background-color: rgb(184, 71, 255);
+}
+.jojii{
+    background-color: rgb(100, 97, 255);
+    background-repeat: no-repeat;
+    margin-left: 510px;
+    width: 500px;
+    display: flex: ;;
+    justify-content: center;
+}
+.parrafocasifinal{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 100%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.regresar{
+    color: rgb(173, 106, 255);
+    background-repeat: no-repeat;
+    text-align: center;
+    text-size-adjust: 0;
+    font-family: "Amarante", serif;
+    font-weight: 50px;
+    font-style: normal;
+    font-size: 250%;
+    font-variant-position: sub;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
